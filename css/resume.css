@@ -1,0 +1,56 @@
+div.resume-header {
+	height: 12em;
+	padding: 2em;
+	background-color: #000099;
+	color: #6699FF;
+}
+
+div.resume-header h1 {
+	font-weight: 700;	
+	color: #FFF;
+}
+
+div.resume-header p {
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+div.resume-section {
+	margin-left: 2em;
+}
+
+div.resume-subsection {
+	height: 28em;
+	margin: 5px;
+}
+
+div.resume-subsection > h3 {
+	margin-top: 0px;
+}
+
+div.skill-meter {
+	width: 60%;
+}
+
+span.skill-name {
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+ul.resume-list {
+	padding-left: 20px;
+}
+li.list-group-item{
+	padding: 5px 15px;
+}
+
+.progress {
+	margin-bottom: 10px;
+}
+.progress-bar-gettinthere {
+	background-color: rgb(240, 240, 17);
+}
+
+.progress-bar-gettinthere > span {
+	color: black;
+}
