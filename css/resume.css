@@ -19,17 +19,20 @@ div.resume-section {
 	margin-left: 2em;
 }
 
-div.resume-subsection {
-	height: 28em;
+div.resume-skills-subsection {
+	width: 20%;
+	height: 26em;
 	margin: 5px;
+	display: inline-block;
+	vertical-align: top;
 }
 
-div.resume-subsection > h3 {
+div.resume-skills-subsection > h3 {
 	margin-top: 0px;
 }
 
 div.skill-meter {
-	width: 60%;
+	width: 70%;
 }
 
 span.skill-name {
@@ -53,4 +56,5 @@ li.list-group-item{
 
 .progress-bar-gettinthere > span {
 	color: black;
+	font-weight: 700;
 }
