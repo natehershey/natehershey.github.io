@@ -1,5 +1,9 @@
+a.navbar-brand.active {
+  color: #3399f3;
+}
+
 div.index-header {
-	height: 12em;
+	min-height: 12em;
 	padding: 2em;
 	background-color: #006B00;
 	color: #4DFF4D;

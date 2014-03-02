@@ -1,0 +1,20 @@
+div.accomplishments-header {
+	min-height: 12em;
+	padding: 2em;
+	background-color: #A71306;
+	color: #FC9905;
+}
+
+div.accomplishments-header h1 {
+	font-weight: 700;	
+	color: #FFF;
+}
+
+div.accomplishments-header p {
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+div.accomplishment {
+  margin: 2em;
+}

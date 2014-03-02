@@ -1,0 +1,26 @@
+div.personal-header {
+	min-height: 12em;
+	padding: 2em;
+	background-color: #E06F07;
+	color: #FFCF88;
+}
+
+div.personal-header h1 {
+	font-weight: 700;	
+	color: #FFF;
+}
+
+div.personal-header p {
+	font-size: 1.2em;
+	font-weight: 700;
+}
+
+div.personal-nugget {
+  margin: 2em;
+  /*border-color: #B97B37;*/
+}
+
+div.personal-nugget .panel-heading {
+/*  border-color: #B97B37;
+  background-color: #B97B37;*/
+}
